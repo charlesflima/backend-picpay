@@ -5,7 +5,7 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
-import tech.buildrun.picpay.controller.dto.CreateWalletDto;
+import tech.buildrun.picpay.client.dto.CreateWalletDto;
 import tech.buildrun.picpay.entity.Wallet;
 import tech.buildrun.picpay.service.WalletService;
 
