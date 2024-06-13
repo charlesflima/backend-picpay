@@ -2,7 +2,7 @@ package tech.buildrun.picpay.service;
 
 import jakarta.transaction.Transactional;
 import org.springframework.stereotype.Service;
-import tech.buildrun.picpay.client.dto.TransferDto;
+import tech.buildrun.picpay.controller.dto.TransferDto;
 import tech.buildrun.picpay.entity.Transfer;
 import tech.buildrun.picpay.entity.Wallet;
 import tech.buildrun.picpay.exception.InsufficientBalanceException;

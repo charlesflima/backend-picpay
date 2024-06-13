@@ -1,5 +1,4 @@
-
-package tech.buildrun.picpay.client.dto;
+package tech.buildrun.picpay.controller.dto;
 
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.NotNull;

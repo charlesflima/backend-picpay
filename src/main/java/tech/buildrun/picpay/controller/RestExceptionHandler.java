@@ -1,4 +1,4 @@
-package tech.buildrun.picpay.client.dto;
+package tech.buildrun.picpay.controller;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ProblemDetail;
